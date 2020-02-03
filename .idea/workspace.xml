@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/type1.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type5.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type6.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +202,7 @@
       <workItem from="1580619935647" duration="40000" />
       <workItem from="1580619995242" duration="2433000" />
       <workItem from="1580737318720" duration="2587000" />
-      <workItem from="1580742240832" duration="4186000" />
+      <workItem from="1580742240832" duration="4331000" />
     </task>
     <servers />
   </component>

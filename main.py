@@ -12,7 +12,7 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--popSize",type=int,default=100)
     parser.add_argument("--maxEval",type=int,default=1000000)
-    parser.add_argument("--nSeed",type=int,default=5)
+    parser.add_argument("--nSeed",type=int,default=30)
     parser.add_argument("--maxPunishment",type=int,default=3)
     parser.add_argument("--basic",type=str,default="Type_1_Small")
     args = parser.parse_args()
@@ -29,7 +29,7 @@ if __name__=='__main__':
         if x == "EOF":
             break
         instance.append(x)
-    outputPath = 'Result/Pop'+ str(popSize)+ '/' + basic + '/Para_File(MFLTGA_Clus_Tree)'
+    outputPath = 'Result'+ '/' + basic + '/Pop'+ str(popSize) + '/Para_File(MFLTGA_Clus_Tree)'
 
     for a in range(0, len(instance), 2):
         task1 = instance[a]

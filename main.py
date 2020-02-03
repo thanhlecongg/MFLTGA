@@ -29,7 +29,7 @@ if __name__=='__main__':
         if x == "EOF":
             break
         instance.append(x)
-    outputPath = 'Result/' + basic + '/Para_File(MFLTGA_Clus_Tree)'
+    outputPath = 'Result/Pop'+ str(popSize)+ '/' + basic + '/Para_File(MFLTGA_Clus_Tree)'
 
     for a in range(0, len(instance), 2):
         task1 = instance[a]

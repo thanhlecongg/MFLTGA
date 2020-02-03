@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_1_Large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_1_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_1_Small.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_3_Large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_4_Large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_5_Large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_5_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_5_Small.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_6_Large.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input/Type_6_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_6_Small.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Type_1_Small.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Type_5_Small.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Type_6_Small.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Result" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Result/Type_6_Small" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -215,7 +199,7 @@
       <workItem from="1580619935647" duration="40000" />
       <workItem from="1580619995242" duration="2433000" />
       <workItem from="1580737318720" duration="2587000" />
-      <workItem from="1580742240832" duration="2465000" />
+      <workItem from="1580742240832" duration="3058000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,15 @@
+5pr76
+5st70
+10berlin52
+10st70
+15berlin52
+15eil51
+15eil76
+15pr76
+15st70
+25eil101
+25kroA100
+25lin105
+25rat99
+50eil101
+EOF

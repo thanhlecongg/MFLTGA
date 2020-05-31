@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="" />
+    <list default="true" id="86b2aca8-4e4f-4295-9001-7795d8d8a527" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Input1/Type_1_Small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input1/Type_5_Small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input1/Type_6_Small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Type_1_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_1_Small.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Type_5_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_5_Small.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Type_6_Small.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Input/Type_6_Small.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop100/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop150/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop200/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop300/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop50/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_1_Small/Pop75/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop100/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop150/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop200/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop300/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop50/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_5_Small/Pop75/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop100/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop150/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop200/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop300/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop50/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result/Type_6_Small/Pop75/init.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/type1.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type5.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/type6.bat" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +64,23 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Result/Type_6_Small" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Result/Type_6_Small" />
-      <recent name="$PROJECT_DIR$/Result/Type_5_Small" />
       <recent name="$PROJECT_DIR$/Result/Type_1_Small" />
       <recent name="$PROJECT_DIR$/Result" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Result/Type_5_Small" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Input" />
+      <recent name="$PROJECT_DIR$/Result" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Input" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,11 +237,29 @@
       <workItem from="1580619995242" duration="2433000" />
       <workItem from="1580737318720" duration="2587000" />
       <workItem from="1580742240832" duration="4331000" />
+      <workItem from="1580750383356" duration="807000" />
+      <workItem from="1580788626614" duration="220000" />
+      <workItem from="1580789358640" duration="1627000" />
+      <workItem from="1580984723018" duration="611000" />
+      <workItem from="1581129880632" duration="1024000" />
+      <workItem from="1581159009710" duration="10000" />
+      <workItem from="1581163379378" duration="8000" />
+      <workItem from="1581256474372" duration="578000" />
+      <workItem from="1581590456445" duration="12000" />
+      <workItem from="1581590471738" duration="264000" />
+      <workItem from="1581590744235" duration="119000" />
+      <workItem from="1581591598528" duration="1212000" />
+      <workItem from="1581951263124" duration="394000" />
+      <workItem from="1582207647693" duration="741000" />
+      <workItem from="1582288658867" duration="1005000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

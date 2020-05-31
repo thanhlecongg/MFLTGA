@@ -6,7 +6,6 @@ from Experiment import setUp, run
 from Problem import Problem
 from Utils import encode_Prufer_graph, decodeMFO, decodeConnectorMFO
 import argparse
-from tqdm import tqdm
 
 if __name__=='__main__':
     parser = argparse.ArgumentParser()
@@ -29,7 +28,7 @@ if __name__=='__main__':
         if x == "EOF":
             break
         instance.append(x)
-    outputPath = 'Result'+ '/' + basic + '/Pop'+ str(popSize) + '/Para_File(MFLTGA_Clus_Tree)'
+    outputPath = 'Result'+ '/' + basic + '/Para_File(MFLTGA_Clus_Tree)'
 
     for a in range(0, len(instance), 2):
         task1 = instance[a]

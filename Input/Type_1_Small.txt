@@ -1,9 +1,13 @@
-10berlin52
-15eil76
+10eil51
+10eil76
+10kroB100
+10pr76
 10rat99
-25kroA100
-50eil101
+5berlin52
+5eil51
+5eil76
 50kroA100
 50kroB100
 50lin105
+50rat99
 EOF

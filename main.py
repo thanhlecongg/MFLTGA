@@ -11,9 +11,9 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--popSize",type=int,default=100)
     parser.add_argument("--maxEval",type=int,default=1000000)
-    parser.add_argument("--nSeed",type=int,default=30)
+    parser.add_argument("--nSeed",type=int,default=1)
     parser.add_argument("--maxPunishment",type=int,default=3)
-    parser.add_argument("--basic",type=str,default="Type_1_Small")
+    parser.add_argument("--dataset",type=str,default="Type_1_Small")
     args = parser.parse_args()
     popSize = args.popSize
     maxEvaluation = args.maxEval

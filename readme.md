@@ -13,4 +13,6 @@ The [dataset](https://data.mendeley.com/datasets/b4gcgybvt6/2) used to evaluate 
 
 # Running
 
-**python main.py**
+```
+python3 run.py
+```

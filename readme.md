@@ -4,7 +4,17 @@ This repository contains source code of research paper [A Multifactorial Optimiz
 
 # Citation
 
-Huynh, Thi Thanh Binh, Dinh Thanh Pham, Ba Trung Tran, Cong Thanh Le, Minh Hai Phong Le, Ananthram Swami, and Thu Lam Bui. "A multifactorial optimization paradigm for linkage tree genetic algorithm." Information Sciences 540 (2020): 325-344.
+```
+@article{huynh2020multifactorial,
+  title={A multifactorial optimization paradigm for linkage tree genetic algorithm},
+  author={Huynh, Thi Thanh Binh and Pham, Dinh Thanh and Tran, Ba Trung and Le, Cong Thanh and Le, Minh Hai Phong and Swami, Ananthram and Bui, Thu Lam},
+  journal={Information Sciences},
+  volume={540},
+  pages={325--344},
+  year={2020},
+  publisher={Elsevier}
+}
+```
 
 # Running
 
